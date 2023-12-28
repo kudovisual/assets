@@ -6,5 +6,5 @@ assets của tui
 # Liên hệ
 * Vào Discord của Liều Ăn Nhiều: **https://discord.gg/ZzfeBbRrKk**
 * E-mail: **mailto:kudovisual02@gmail.com**
-* Website: kudovisual.github.io
+* Website: **https://kudovisual.github.io**
 * Facebook: **https://kudovisual.github.io/user/kudovisual/facebook**
