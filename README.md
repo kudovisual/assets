@@ -5,6 +5,6 @@ assets của tui
 * Còn nền màu đỏ là #dd685c.
 # Liên hệ
 * Vào Discord của Liều Ăn Nhiều: **https://discord.gg/ZzfeBbRrKk**
-* E-mail: **kudovisual02@gmail.com**
+* E-mail: **mailto:kudovisual02@gmail.com**
 * Website: kudovisual.github.io
-* Facebook: **kudovisual.github.io/user/kudovisual/facebook**
+* Facebook: **https://kudovisual.github.io/user/kudovisual/facebook**
