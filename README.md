@@ -4,7 +4,7 @@ assets của tui
 * Loại màu xanh (nhạt) của KudoVisual sử dụng là : #5ca0dd.
 * Còn nền màu đỏ là #dd685c.
 # Liên hệ
-* Vào Discord của Liều Ăn Nhiều: **https://discord.gg/ZzfeBbRrKk**
+* Vào Discord của KaporVTE: **https://discord.gg/ZzfeBbRrKk**
 * E-mail: **mailto:kudovisual02@gmail.com**
 * Website: **https://kudovisual.github.io**
 * Facebook: **https://kudovisual.github.io/user/kudovisual/facebook**
